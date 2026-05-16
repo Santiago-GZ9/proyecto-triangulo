@@ -13,6 +13,10 @@ public class Triangulo {
         }
     }
 
+    public static double areaTriangulo(double base, double altura) {
+    return (base * altura) / 2;
+    }
+
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
@@ -27,5 +31,6 @@ public class Triangulo {
         int c = sc.nextInt();
 
         System.out.println("El triangulo es: " + tipoTriangulo(a,b,c));
+        System.out.println("Area: " + areaTriangulo(10,5));
     }
 }
