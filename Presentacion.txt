@@ -2,3 +2,4 @@ Nombre: Santiago Gomez
 Programa: Ingeniería de Sistemas
 Lenguaje elegido: Java
 Descripción del proyecto: Programa que identifica tipos de triángulos
+Fecha: 15/05/2026
