@@ -1,0 +1,4 @@
+* 925fbc3 feat: agregar función calcular area
+* 290b36a feat: agregar función tipo triangulo
+* 7929ae5 docs: agregar fecha al archivo de presentacion
+* e413dbe feat: agreagar presentacion del estudiante
